@@ -53,8 +53,81 @@ Example Student Projects
 
 This material is presented courtesy of the students and used with permission.
 
-| PROJECTS | FINAL PROPOSAL | DESIGN BRIEF | POSTER | SUPPORTING DOCUMENTS |
-| --- | --- | --- | --- | --- |
-| "A Brief Artbotics Exploration for Educators" by Jennifer Casper | ([PDF]({{< baseurl >}}/resources/mitmas_714jf09_proj1_prop)) | ([PDF]({{< baseurl >}}/resources/mitmas_714jf09_proj1_brief)) | ([PDF]({{< baseurl >}}/resources/mitmas_714jf09_proj1_postr)) | Overview, Hardware and Software Reference ([PDF]({{< baseurl >}}/resources/mitmas_714jf09_proj1_supp)) |
-| "Ting-Bing: Constructionist Architecture for Adventure Classrooms" by Sam Kronick | ([PDF]({{< baseurl >}}/resources/mitmas_714jf09_proj2_prop)) | ([PDF - 1.1MB]({{< baseurl >}}/resources/mitmas_714jf09_proj2_brief)) | ([PDF - 3.7MB]({{< baseurl >}}/resources/mitmas_714jf09_proj2_postr)) | &nbsp; |
-| "Using Scratch to enhance students' 21st century scientific thinking skills" by Y. Debbie Liu | ([PDF]({{< baseurl >}}/resources/mitmas_714jf09_proj4_prop)) | ([PDF - 1.2MB]({{< baseurl >}}/resources/mitmas_714jf09_proj4_brief)) | ([PDF]({{< baseurl >}}/resources/mitmas_714jf09_proj4_postr)) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROJECTS
+{{< thclose >}}
+{{< thopen >}}
+FINAL PROPOSAL
+{{< thclose >}}
+{{< thopen >}}
+DESIGN BRIEF
+{{< thclose >}}
+{{< thopen >}}
+POSTER
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING DOCUMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"A Brief Artbotics Exploration for Educators" by Jennifer Casper
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitmas_714jf09_proj1_prop))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitmas_714jf09_proj1_brief))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitmas_714jf09_proj1_postr))
+{{< tdclose >}}
+{{< tdopen >}}
+Overview, Hardware and Software Reference ([PDF]({{< baseurl >}}/resources/mitmas_714jf09_proj1_supp))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Ting-Bing: Constructionist Architecture for Adventure Classrooms" by Sam Kronick
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitmas_714jf09_proj2_prop))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.1MB]({{< baseurl >}}/resources/mitmas_714jf09_proj2_brief))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 3.7MB]({{< baseurl >}}/resources/mitmas_714jf09_proj2_postr))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Using Scratch to enhance students' 21st century scientific thinking skills" by Y. Debbie Liu
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitmas_714jf09_proj4_prop))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.2MB]({{< baseurl >}}/resources/mitmas_714jf09_proj4_brief))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitmas_714jf09_proj4_postr))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

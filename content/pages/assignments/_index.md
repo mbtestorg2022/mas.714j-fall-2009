@@ -60,18 +60,144 @@ In class, we'll be sharing our experiences with the activity. How did your exper
 
 ### Examples of Student Work
 
-| SCRATCH GALLERIES | STUDENT | STUDENT'S COMMENTS |
-| --- | --- | --- |
-| [Generated art/patterns](http://scratch.mit.edu/galleries/view/59421) | DG | &nbsp; |
-| [Instrument learning](http://scratch.mit.edu/galleries/view/59498/) | JP | My favorites are the last two: Drumstation2 and Record a Tune |
-| [NewsFlo](http://scratch.mit.edu/galleries/view/59546) | FG | From print to broadcast, and e-zines and photography to interactive publishing, my 'NewsFlo' gallery represents a condensed but varied selection of news media. And of course it includes our cat-correspondent :) |
-| [JC Favorites](http://scratch.mit.edu/galleries/view/59586/) | JC | I chose projects that had a storyline and utilized some original character drawings. It was interesting to sift through all of the diverse projects posted. |
-| [Musical concepts](http://scratch.mit.edu/galleries/view/59656) | MN | Projects that are related to intuitive ways of teaching musical concepts |
-| [Amusement Parks!](http://scratch.mit.edu/galleries/view/59744) | RC | Projects that remind me of amusement parks |
-| [My STS Favorites](http://scratch.mit.edu/galleries/view/59735) | DL | I especially enjoyed projects where students created new ways of learning old things |
-| [Building/buildings](http://scratch.mit.edu/galleries/view/59530) | SK | Projects about cities, buildings, and building |
-| [SL Top 10](http://scratch.mit.edu/galleries/view/59588) | SL | &nbsp; |
-| [Interesting projects](http://scratch.mit.edu/galleries/view/59796) | ZH |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SCRATCH GALLERIES
+{{< thclose >}}
+{{< thopen >}}
+STUDENT
+{{< thclose >}}
+{{< thopen >}}
+STUDENT'S COMMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Generated art/patterns](http://scratch.mit.edu/galleries/view/59421)
+{{< tdclose >}}
+{{< tdopen >}}
+DG
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Instrument learning](http://scratch.mit.edu/galleries/view/59498/)
+{{< tdclose >}}
+{{< tdopen >}}
+JP
+{{< tdclose >}}
+{{< tdopen >}}
+My favorites are the last two: Drumstation2 and Record a Tune
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[NewsFlo](http://scratch.mit.edu/galleries/view/59546)
+{{< tdclose >}}
+{{< tdopen >}}
+FG
+{{< tdclose >}}
+{{< tdopen >}}
+From print to broadcast, and e-zines and photography to interactive publishing, my 'NewsFlo' gallery represents a condensed but varied selection of news media. And of course it includes our cat-correspondent :)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[JC Favorites](http://scratch.mit.edu/galleries/view/59586/)
+{{< tdclose >}}
+{{< tdopen >}}
+JC
+{{< tdclose >}}
+{{< tdopen >}}
+I chose projects that had a storyline and utilized some original character drawings. It was interesting to sift through all of the diverse projects posted.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Musical concepts](http://scratch.mit.edu/galleries/view/59656)
+{{< tdclose >}}
+{{< tdopen >}}
+MN
+{{< tdclose >}}
+{{< tdopen >}}
+Projects that are related to intuitive ways of teaching musical concepts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Amusement Parks!](http://scratch.mit.edu/galleries/view/59744)
+{{< tdclose >}}
+{{< tdopen >}}
+RC
+{{< tdclose >}}
+{{< tdopen >}}
+Projects that remind me of amusement parks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[My STS Favorites](http://scratch.mit.edu/galleries/view/59735)
+{{< tdclose >}}
+{{< tdopen >}}
+DL
+{{< tdclose >}}
+{{< tdopen >}}
+I especially enjoyed projects where students created new ways of learning old things
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Building/buildings](http://scratch.mit.edu/galleries/view/59530)
+{{< tdclose >}}
+{{< tdopen >}}
+SK
+{{< tdclose >}}
+{{< tdopen >}}
+Projects about cities, buildings, and building
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[SL Top 10](http://scratch.mit.edu/galleries/view/59588)
+{{< tdclose >}}
+{{< tdopen >}}
+SL
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Interesting projects](http://scratch.mit.edu/galleries/view/59796)
+{{< tdclose >}}
+{{< tdopen >}}
+ZH
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 4\. Scratch Sensor Boards
 -------------------------
@@ -90,16 +216,117 @@ In class, we'll be sharing our experiences with the activity. How did these expe
 
 ### Examples of Student Work
 
-| SCRATCH BOARD PROJECTS | "CREATING THE PROJECT" DOCUMENTATION | STUDENTS |
-| --- | --- | --- |
-| [Sink the Ship](http://scratch.mit.edu/projects/emlovell/705898) | [Scratch](http://scratch.mit.edu/projects/emlovell/705986) | ZH, EL |
-| [PicoBoard Drumset](http://scratch.mit.edu/projects/sabee4b4b/706440) | [Scratch](http://scratch.mit.edu/projects/sabee4b4b/706576), [Video 1](http://www.youtube.com/watch?v=IEDE53K8Hlk), [Video 2](http://www.youtube.com/watch?v=HqpQ4iTPa0w) | JC, JP |
-| [Crazy Dancing with Scratch Cat](http://scratch.mit.edu/projects/JennC/707596) | [Scratch](http://scratch.mit.edu/projects/JennC/707591), [Video](http://www.youtube.com/watch?v=pOQVJHrh7EI) |
-| [Robot Dance Party](http://scratch.mit.edu/projects/missvic/707206) | [Scratch](http://scratch.mit.edu/projects/missvic/707200) | VC, DR |
-| [Virtual Tree](http://scratch.mit.edu/projects/RitaC/706116) | [Scratch](http://scratch.mit.edu/projects/Lightnin/708315) | AB, RC |
-| [The Bike Game](http://scratch.mit.edu/projects/8ijou/708001) | [Scratch](http://scratch.mit.edu/projects/8ijou/707900) | SK, DL |
-| [Smart Personal Agent](http://scratch.mit.edu/projects/kkkaaa/708702) | [Scratch](http://scratch.mit.edu/projects/kkkaaa/708706) | KA, FG |
-| [TuneWars](http://scratch.mit.edu/projects/madhaxor/736165) | Photos (unavailable) | DG, MN 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SCRATCH BOARD PROJECTS
+{{< thclose >}}
+{{< thopen >}}
+"CREATING THE PROJECT" DOCUMENTATION
+{{< thclose >}}
+{{< thopen >}}
+STUDENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Sink the Ship](http://scratch.mit.edu/projects/emlovell/705898)
+{{< tdclose >}}
+{{< tdopen >}}
+[Scratch](http://scratch.mit.edu/projects/emlovell/705986)
+{{< tdclose >}}
+{{< tdopen >}}
+ZH, EL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[PicoBoard Drumset](http://scratch.mit.edu/projects/sabee4b4b/706440)
+{{< tdclose >}}
+{{< tdopen >}}
+[Scratch](http://scratch.mit.edu/projects/sabee4b4b/706576), [Video 1](http://www.youtube.com/watch?v=IEDE53K8Hlk), [Video 2](http://www.youtube.com/watch?v=HqpQ4iTPa0w)
+{{< tdclose >}}
+{{< tdopen >}}
+JC, JP
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Crazy Dancing with Scratch Cat](http://scratch.mit.edu/projects/JennC/707596)
+{{< tdclose >}}
+{{< tdopen >}}
+[Scratch](http://scratch.mit.edu/projects/JennC/707591), [Video](http://www.youtube.com/watch?v=pOQVJHrh7EI)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Robot Dance Party](http://scratch.mit.edu/projects/missvic/707206)
+{{< tdclose >}}
+{{< tdopen >}}
+[Scratch](http://scratch.mit.edu/projects/missvic/707200)
+{{< tdclose >}}
+{{< tdopen >}}
+VC, DR
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Virtual Tree](http://scratch.mit.edu/projects/RitaC/706116)
+{{< tdclose >}}
+{{< tdopen >}}
+[Scratch](http://scratch.mit.edu/projects/Lightnin/708315)
+{{< tdclose >}}
+{{< tdopen >}}
+AB, RC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[The Bike Game](http://scratch.mit.edu/projects/8ijou/708001)
+{{< tdclose >}}
+{{< tdopen >}}
+[Scratch](http://scratch.mit.edu/projects/8ijou/707900)
+{{< tdclose >}}
+{{< tdopen >}}
+SK, DL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Smart Personal Agent](http://scratch.mit.edu/projects/kkkaaa/708702)
+{{< tdclose >}}
+{{< tdopen >}}
+[Scratch](http://scratch.mit.edu/projects/kkkaaa/708706)
+{{< tdclose >}}
+{{< tdopen >}}
+KA, FG
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[TuneWars](http://scratch.mit.edu/projects/madhaxor/736165)
+{{< tdclose >}}
+{{< tdopen >}}
+Photos (unavailable)
+{{< tdclose >}}
+{{< tdopen >}}
+DG, MN
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 5\. Collaboration and the Scratch Web site
 ------------------------------------------

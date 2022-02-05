@@ -48,17 +48,171 @@ Grading will be based one-third on class participation, one-third on contributio
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Constructionism | Activity 1 due |
-| 3 | Learning sciences | Activity 2 due |
-| 4 | New media literacy | Activity 3 due |
-| 5 | Tangible learning | Activity 4 due |
-| 6 | Communities of learners | Activity 5 due |
-| 7 | Relationships in learning | Activity 6 due |
-| 8 | Supporting communities of learners | Final project short proposal due |
-| &nbsp; | No class (Veteran's Day) | Final project final proposal due |
-| 9 | Diversity and pluralism | Activity 7 due |
-| 10 | Games and learning | &nbsp; |
-| 11 | Final project presentations |  {{< br >}}{{< br >}} Final project poster due {{< br >}}{{< br >}} Design brief due 2 days later {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Constructionism
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Learning sciences
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+New media literacy
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Tangible learning
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Communities of learners
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Relationships in learning
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Supporting communities of learners
+{{< tdclose >}}
+{{< tdopen >}}
+Final project short proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+No class (Veteran's Day)
+{{< tdclose >}}
+{{< tdopen >}}
+Final project final proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Diversity and pluralism
+{{< tdclose >}}
+{{< tdopen >}}
+Activity 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Games and learning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Final project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final project poster due
+
+Design brief due 2 days later
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

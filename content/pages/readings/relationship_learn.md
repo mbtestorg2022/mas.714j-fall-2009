@@ -41,16 +41,102 @@ Tasks for this week:
 1.  Taking into consideration our reading, think back to a past classroom experience where you either did not retain the knowledge learned in class, or did not know how to apply this knowledge to other areas. Describe briefly why that was, and how would you do things differently to make the experience more "authentic"?
 2.  Visit the class Google Moderator page and post and/or vote on comments, topics, or questions that you want to discuss in class on Wednesday. _\[The results are given below.\]_
 
-| QUESTIONS posted to Google Moderator page | VOTES |
-| --- | --- |
-| LIKE | DON'T LIKE |
-| --- | --- |
-| 1\. "If schools adopt a cognitive apprenticeship model, should the way students are assessed change as well? In what ways should it change?" \[RC\] | 8 | 1 |
-| 2\. "Since in a cognitive apprenticeship model, each individuals' learning result will be very different according to the different "project". How could student acquire the knowledge systematically, if schools turn to a cognitive apprenticeship model." \[ZH\] | 5 | 0 |
-| 3\. "How should math be taught once the mechanics have been learned." \[DG\] | 5 | 2 |
-| 4\. "After reading several papers on the subject of situated cognition I'm still puzzling over how a learner moves from situated knowledge to abstractions, which are still incredibly important to disciplinary cultures. (Related to Question 3)" \[SL\] | 4 | 0 |
-| 5\. "Is there proof that encountering a concept in a situated way is more effective than pre-teaching the concept and then using it in context?" \[VC\] | 3 | 1 |
-| 6\. "Craft apprentices are great at perpetuating their traditions but they shy away from new ways of doing things. Are cognitive apprenticeships similar? When faced with new, complex global problems, will learning via old frameworks provide new solutions?" \[SK\] | 2 | 0 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+QUESTIONS posted to Google Moderator page
+{{< thclose >}}
+{{< thopen >}}
+VOTES
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+LIKE
+{{< thclose >}}
+{{< thopen >}}
+DON'T LIKE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. "If schools adopt a cognitive apprenticeship model, should the way students are assessed change as well? In what ways should it change?" \[RC\]
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2\. "Since in a cognitive apprenticeship model, each individuals' learning result will be very different according to the different "project". How could student acquire the knowledge systematically, if schools turn to a cognitive apprenticeship model." \[ZH\]
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3\. "How should math be taught once the mechanics have been learned." \[DG\]
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4\. "After reading several papers on the subject of situated cognition I'm still puzzling over how a learner moves from situated knowledge to abstractions, which are still incredibly important to disciplinary cultures. (Related to Question 3)" \[SL\]
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5\. "Is there proof that encountering a concept in a situated way is more effective than pre-teaching the concept and then using it in context?" \[VC\]
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6\. "Craft apprentices are great at perpetuating their traditions but they shy away from new ways of doing things. Are cognitive apprenticeships similar? When faced with new, complex global problems, will learning via old frameworks provide new solutions?" \[SK\]
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 * * *
 
