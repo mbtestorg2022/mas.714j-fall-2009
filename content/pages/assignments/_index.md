@@ -204,7 +204,7 @@ ZH
 
 For this week's activity, you are asked to create a personally-meaningful tangible interface with a Scratch Sensor Board.
 
-For help setting up and experimenting with the board, check out the [Pico Board site](http://www.picocricket.com/picoboard.html), which includes a Getting Started Guide (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.1MB](http://www.picocricket.com/pdfs/Getting_Started_With_PicoBoards.pdf)). As part of the setup process, you'll need to [install a driver](http://www.picocricket.com/picoboardsetup.html).
+For help setting up and experimenting with the board, check out the [Pico Board site](http://www.picocricket.com/picoboard.html), which includes a Getting Started Guide ([PDF - 3.1MB](http://www.picocricket.com/pdfs/Getting_Started_With_PicoBoards.pdf)). As part of the setup process, you'll need to [install a driver](http://www.picocricket.com/picoboardsetup.html).
 
 To document your Scratch Board project, we'd like you to create an additional Scratch project that includes photos of your Scratch Board project—and your process of creating it.
 

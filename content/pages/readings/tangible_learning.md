@@ -59,7 +59,7 @@ Some time last February I dreamt up an idea for a physical classroom that would 
 
 A few collaborators and I worked with a group of local high school students and their teacher to gather ideas for what this classroom should contain. We came up with this design by the start of the summer:
 
-*   Open Architecture Challenge: Classroom. "How Buildings Teach." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.5MB](http://classroom.mit.edu/a4h/Presentation%20Board-BRANCH.pdf))
+*   Open Architecture Challenge: Classroom. "How Buildings Teach." ([PDF - 5.5MB](http://classroom.mit.edu/a4h/Presentation%20Board-BRANCH.pdf))
 
 Working with some of these high school students, we built a full-scale prototype of a section of the classroom over the summer. In the process, we worked with the students to help them develop research projects that could result in creations which could become part of the classroom. Eisenberg enumerated a list of possible projects that seemed eerily similar to the sorts of things we were working on, including exploring symmetry groups and tessellations to decorate our triangular floor tiles or discussing the path of the sun during different seasons and its effects on light and heat in our structure.
 

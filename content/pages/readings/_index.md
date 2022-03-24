@@ -59,13 +59,13 @@ Constructionism
 
 Papert, S. _Mindstorms: Children, Computers, and Powerful Ideas_. New York, NY: Basic Books, 1980. ISBN: 9780465046744. [Foreword](http://www.papert.org/articles/GearsOfMyChildhood.html), Introduction, Chapter 1 and Chapter 8.
 
-Resnick, M. "All I Really Need to Know (About Creative Thinking) I Learned (By Studying How Children Learn) in Kindergarten." _Proceedings of the ACM SIGCHI Conference on Creativity & Cognition_, Washington, DC, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.media.mit.edu/~mres/papers/kindergarten-learning-approach.pdf))
+Resnick, M. "All I Really Need to Know (About Creative Thinking) I Learned (By Studying How Children Learn) in Kindergarten." _Proceedings of the ACM SIGCHI Conference on Creativity & Cognition_, Washington, DC, 2007. ([PDF](http://web.media.mit.edu/~mres/papers/kindergarten-learning-approach.pdf))
 
 ### Optional
 
 Papert, S. "What's the Big Idea: Toward a Pedagogy of Idea Power." _IBM Systems Journal_ 39, no. 3-4 (2000): 720-729.
 
-Resnick, M., J. Maloney, A. Monroy-Hernandez, N. Rusk, E. Eastmond, K. Brennan, A. Millner, E. Rosenbaum, J. Silver, B. Silverman, and Y. Kafai. "Scratch: Programming for Everyone." Preprint version of article published in _Communications of the ACM_, November 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB](http://web.media.mit.edu/%7Emres/scratch/scratch-cacm.pdf))
+Resnick, M., J. Maloney, A. Monroy-Hernandez, N. Rusk, E. Eastmond, K. Brennan, A. Millner, E. Rosenbaum, J. Silver, B. Silverman, and Y. Kafai. "Scratch: Programming for Everyone." Preprint version of article published in _Communications of the ACM_, November 2009. ([PDF - 1.0MB](http://web.media.mit.edu/%7Emres/scratch/scratch-cacm.pdf))
 
 
 {{< tdclose >}}
@@ -113,11 +113,11 @@ New media literacy
 
 ### Required
 
-Jenkins, H., et al. "Confronting the Challenges of Participatory Culture: Media Education for the 21st Century." MacArthur Foundation, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.4MB](http://www.newmedialiteracies.org/wp-content/uploads/pdfs/NMLWhitePaper.pdf))
+Jenkins, H., et al. "Confronting the Challenges of Participatory Culture: Media Education for the 21st Century." MacArthur Foundation, 2006. ([PDF - 4.4MB](http://www.newmedialiteracies.org/wp-content/uploads/pdfs/NMLWhitePaper.pdf))
 
 ### Optional
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262541329) diSessa, A. "Computational Media and New Literacies – The Very Idea." Chapter 1 in [_Changing Minds: Computers, Learning, and Literacy_](https://mitpress.mit.edu/9780262541329). Cambridge, MA: MIT Press, 2000. ISBN: 9780262541329. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://mitpress.mit.edu/9780262541329))
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262541329) diSessa, A. "Computational Media and New Literacies – The Very Idea." Chapter 1 in [_Changing Minds: Computers, Learning, and Literacy_](https://mitpress.mit.edu/9780262541329). Cambridge, MA: MIT Press, 2000. ISBN: 9780262541329. ([PDF](https://mitpress.mit.edu/9780262541329))
 
 
 {{< tdclose >}}
@@ -138,11 +138,11 @@ Tangible learning
 
 ### Required
 
-Eisenberg, M. "Mindstuff: Educational Technology Beyond the Computer." Convergence, 2003 [(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](https://pdfs.semanticscholar.org/d289/cab0d4f56e8831b588316b19718dfd3d655c.pdf?_ga=2.105982213.762049758.1567525879-350331634.1567174238))
+Eisenberg, M. "Mindstuff: Educational Technology Beyond the Computer." Convergence, 2003 [(PDF](https://pdfs.semanticscholar.org/d289/cab0d4f56e8831b588316b19718dfd3d655c.pdf?_ga=2.105982213.762049758.1567525879-350331634.1567174238))
 
 ### Optional
 
-Resnick, M. "Computer as Paintbrush: Technology, Play, and the Creative Society." 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.media.mit.edu/~mres/papers/playlearn-handout.pdf))
+Resnick, M. "Computer as Paintbrush: Technology, Play, and the Creative Society." 2006. ([PDF](http://web.media.mit.edu/~mres/papers/playlearn-handout.pdf))
 
 Resnick, M., F. Martin, R. Berg, R. Borovoy, V. Colella, K. Kramer, and B. Silverman. "[Digital Manipulatives: New Toys to Think With](http://llk.media.mit.edu/papers/dig-manip/)." _Proceedings of the CHI '98 Conference_ (1998): 281-287.
 
@@ -165,15 +165,15 @@ Communities of learners
 
 ### Required
 
-Ito, M., et al. "Living and Learning with New Media: Summary of Findings from the Digital Youth Project." _MacArthur Foundation Reports_, November 2008. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 2.6MB](https://files.eric.ed.gov/fulltext/ED536072.pdf))
+Ito, M., et al. "Living and Learning with New Media: Summary of Findings from the Digital Youth Project." _MacArthur Foundation Reports_, November 2008. ([PDF - 2.6MB](https://files.eric.ed.gov/fulltext/ED536072.pdf))
 
-Monroy-Hernández, A., and M. Resnick. "Empowering kids to Create and Share Programmable Media." _Interactions_ (March-April 2008): 50-53. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://arxiv.org/pdf/1507.01282.pdf))
+Monroy-Hernández, A., and M. Resnick. "Empowering kids to Create and Share Programmable Media." _Interactions_ (March-April 2008): 50-53. ([PDF](http://arxiv.org/pdf/1507.01282.pdf))
 
 ### Optional
 
-Fischer, G. "Social Creativity: Turning Barriers into Opportunities for Collaborative Design." _Proceedings of the Participatory Design Conference_, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB](http://l3d.cs.colorado.edu/~gerhard/papers/pd04-final-submit.pdf))
+Fischer, G. "Social Creativity: Turning Barriers into Opportunities for Collaborative Design." _Proceedings of the Participatory Design Conference_, 2004. ([PDF - 1.6MB](http://l3d.cs.colorado.edu/~gerhard/papers/pd04-final-submit.pdf))
 
-Brown, J. S., and R. Adler. "Minds on Fire." _Educause Review_ 43, no. 1 (2008): 16-32. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB](http://llk.media.mit.edu/courses/readings/jsb-minds-on-fire.pdf))
+Brown, J. S., and R. Adler. "Minds on Fire." _Educause Review_ 43, no. 1 (2008): 16-32. ([PDF - 1.4MB](http://llk.media.mit.edu/courses/readings/jsb-minds-on-fire.pdf))
 
 
 {{< tdclose >}}
@@ -253,7 +253,7 @@ Buechley, L. "LilyPad in the Wild: How Hardware’s Long Tail is Supporting New 
 
 ### Optional
 
-Gardner, H. "A Multiplicity of Intelligences: In Tribute to Professor Luigi Vignolo." 1998/2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://llk.media.mit.edu/courses/readings/gardner-multiple-intelligences.pdf))
+Gardner, H. "A Multiplicity of Intelligences: In Tribute to Professor Luigi Vignolo." 1998/2004. ([PDF](https://llk.media.mit.edu/courses/readings/gardner-multiple-intelligences.pdf))
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262632690) Margolis, J., et al. [_Unlocking the Clubhouse: Women in Computing_](https://mitpress.mit.edu/9780262632690). Cambridge, MA: MIT Press, 2001. ISBN: 9780262632690. \[Preview in [Google Books](http://books.google.com/books?id=StwGQw45YoEC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
 
@@ -284,7 +284,7 @@ Gee, J. P. In _What Video Games Have to Teach Us About Learning and Literacy_. 2
 
 Fortugno, N., and E. Zimmerman. "Learning to Play to Learn: Lessons in Educational Game Design." 2005.
 
-Kafai, Y. B. "Playing and Making Games for Learning: Instructionist and Constructionist Perspectives for Game Studies." _Games and Culture_ 1, no. 1 (2006): 36-40. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://journals.sagepub.com/doi/10.1177/1555412005281767))
+Kafai, Y. B. "Playing and Making Games for Learning: Instructionist and Constructionist Perspectives for Game Studies." _Games and Culture_ 1, no. 1 (2006): 36-40. ([PDF](https://journals.sagepub.com/doi/10.1177/1555412005281767))
 
 
 {{< tdclose >}}
