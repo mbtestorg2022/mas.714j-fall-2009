@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3940422b-f70a-5acd-de7f-de33eabc7213
 resourcetype: Image
 title: "The painted LED connection between + and \u2013 on the tearDrop"
 uid: e72727ad-7dfb-92e3-9a40-408f12bf13f3

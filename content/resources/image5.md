@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3940422b-f70a-5acd-de7f-de33eabc7213
 resourcetype: Image
 title: Path for an LED between + and -
 uid: e9184ea4-d9c5-fce8-92cc-34716d187f01

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3940422b-f70a-5acd-de7f-de33eabc7213
 resourcetype: Image
 title: With the switch closed, the LED lights
 uid: 59d7d58b-77f2-7754-6386-6e02787298a2

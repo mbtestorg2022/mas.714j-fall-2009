@@ -38,7 +38,7 @@ We're going to be using Light Emitting Diodes or LEDs in our painting. LEDs are 
 
 Unlike some lights, LEDs have two different ends, a positive (+) end, called the "anode", and a negative (-) end called the "cathode". The negative end of the LEDs in the kits are marked with lines on their bottom.
 
-![Photo of several LED devices.](/courses/media-arts-and-sciences/mas-714j-technologies-for-creative-learning-fall-2009/assignments/Image2.jpg)
+{{< resource "bfbc2d43-6f7b-e381-212b-aa78b56ef5d1" >}}
 
 Kit LEDs, with stripe indicating the negative end.
 
@@ -72,13 +72,13 @@ The tearDrop computer has three inputs for switches or sensors, one output for s
 
 The kit includes a template with labels for each of the inputs and outputs. The top of the template corresponds to the top of the tearDrop (the side with all of the electronics). Sensor inputs are labeled with inward pointing arrows and LED and sound outputs are labeled with outward pointing arrows. The template lets you see the mapping of the tearDrop's behavior and also provides a physical template for the tearDrop that will help you with your painting. Here's a close-up of the tearDrop and its template:
 
-![Photo showing the front and back sides of the teardrop Arduino circuit board.](/courses/media-arts-and-sciences/mas-714j-technologies-for-creative-learning-fall-2009/assignments/Image3.jpg)
+{{< resource "502ee9e6-320a-c38e-e84e-29258db8293f" >}}
 
 Close up of the tearDrop Arduino.
 
 You may want to plan out your complete design before you get started, or you may want to start by experimenting. Whichever path you choose, once you're ready to start painting, the first thing you want to do is decide where on your sheet of paper you're going to put the tearDrop. Once you've decided, place the tearDrop template on the paper and use a pen or pencil to draw out and label its footprint.
 
-![Photo showing a pencil tracing the locations of holes in the tearDrop on a piece of paper.](/courses/media-arts-and-sciences/mas-714j-technologies-for-creative-learning-fall-2009/assignments/Image4.jpg)
+{{< resource "a3ad8718-e227-a697-cbc8-e1778190408e" >}}
 
 Tracing the tearDrop on paper.
 
@@ -86,7 +86,7 @@ Then, with a pen or pencil, draw out a path for one LED. One side of your LED mu
 
 I'm drawing a path for an LED between + and - on the tearDrop. This is a nice way to start your design because an LED between + and - will always be on. Since the LED will always be on, you'll get a feel for the materials without having to worry about making a sensor or a switch, which are necessary to trigger the "fade" and "on" outputs on the tearDrop.
 
-![Drawing of the tearDrop holes on paper, with two of them connected by a line.](/courses/media-arts-and-sciences/mas-714j-technologies-for-creative-learning-fall-2009/assignments/Image5.jpg)
+{{< resource "e9184ea4-d9c5-fce8-92cc-34716d187f01" >}}
 
 Path for an LED between + and -.
 
@@ -95,17 +95,17 @@ Attaching a Light
 
 To attach a light, you'll glue it down and then use conductive paint to link it to the tearDrop computer. To add a light to your painting, first glue it down to the page (super glue works especially well), and bend the legs of the LED down so that they're touching the paper like so:
 
-![Photo of LED on paper.](/courses/media-arts-and-sciences/mas-714j-technologies-for-creative-learning-fall-2009/assignments/Image6.jpg)
+{{< resource "5b7438ad-ad92-ddeb-977d-58c2c001f9b7" >}}
 
 LED with bent legs glued to the paper.
 
 Then paint over the legs of the LED with your conductive paint like so:
 
-![Photo of painted lines onto the LED leads.](/courses/media-arts-and-sciences/mas-714j-technologies-for-creative-learning-fall-2009/assignments/Image7.jpg)
+{{< resource "f80a0965-6a60-22be-6710-4ed0bad6a4e4" >}}
 
 Conductive paint connecting to the LED leads.
 
-![Photo of the painted LED connection between two holes of the tearDrop template on paper.](/courses/media-arts-and-sciences/mas-714j-technologies-for-creative-learning-fall-2009/assignments/Image8.jpg)
+{{< resource "e72727ad-7dfb-92e3-9a40-408f12bf13f3" >}}
 
 The painted LED connection between + and – on the tearDrop.
 
@@ -120,11 +120,11 @@ Adding a Switch to Your Painting
 
 To make a switch, we connect one of the pads marked with a minus sign "-" temporarily to one of the sensor inputs. Below for example is one way to make a switch for sensor 3. There is one painted line leading to "-" and one painted line leading to sensor 3. When these two lines are connected with a third piece of painted paper, the switch is closed and output "on 3" turns on. To make this example I painted the "-", "sensor 3", and "LED 3" traces, and a small piece of paper. Then I **waited for the paint to dry**, and in about a half an hour had a working circuit:
 
-![Photo of a painted path for a switch.](/courses/media-arts-and-sciences/mas-714j-technologies-for-creative-learning-fall-2009/assignments/Image9.jpg)
+{{< resource "f761b62f-4df2-d475-526f-2d316fa7bbb2" >}}
 
 Adding a path for a switch made of painted paper.
 
-![Photo showing the LED lit up when the paper switch is closed.](/courses/media-arts-and-sciences/mas-714j-technologies-for-creative-learning-fall-2009/assignments/Image10.jpg)
+{{< resource "59d7d58b-77f2-7754-6386-6e02787298a2" >}}
 
 With the switch closed, the LED lights.
 
@@ -135,13 +135,13 @@ A sensor is similar to a similar to a switch, but slightly more complicated. To 
 
 To build a sensor we want to vary the value of the resistor somehow. A good way to vary the value is to shorten or lengthen our graphite resistor. A longer line has more resistance and a shorter one has less resistance. Here's a sketch of a sample sensor where we are shortening and lengthening a graphite resistor by moving a sensor input tab across its surface. Note how one end of the resistor is attached to ground and the moving input tab is attached to a sensor input, in this case "sensor 2".
 
-![Diagram illustrating the use of a variable graphite resistor connected to the tearDrop.](/courses/media-arts-and-sciences/mas-714j-technologies-for-creative-learning-fall-2009/assignments/Image11.jpg)
+{{< resource "320ba03f-24b2-c479-5b02-0f77a530ae2a" >}}
 
 Building a sensor by using a variable resistor.
 
 Here's an example of an actual paper sensor. In this image, when we move the blue tab (whose underside is painted with conductive paint), we change the length of graphite between the blue tab, the input tab, and the left side of the graphite sphere, which is attached to ground.
 
-![Photo of a paper sensor, using a semi-circle of graphite.](/courses/media-arts-and-sciences/mas-714j-technologies-for-creative-learning-fall-2009/assignments/Image12.jpg)
+{{< resource "5c125823-d7e2-a702-7458-99b521c01d3f" >}}
 
 An actual paper sensor.
 

@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3940422b-f70a-5acd-de7f-de33eabc7213
 resourcetype: Image
 title: Tracing the tearDrop on paper
 uid: a3ad8718-e227-a697-cbc8-e1778190408e

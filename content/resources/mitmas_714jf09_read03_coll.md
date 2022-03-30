@@ -5,6 +5,7 @@ description: 'Synopsis of arguments in the book Collins, A., and R. Halverson. R
   York, NY: Teachers College Press, 2009. ISBN: 9780807750025.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mas-714j-technologies-for-creative-learning-fall-2009/d618b0b20780773b64cb1afa397dbcec_MITMAS_714JF09_read03_coll.pdf
 file_type: application/pdf
+parent_uid: bafdf901-ca6d-7a0d-4ae9-696fcd559620
 resourcetype: Document
 title: 'Rethinking Education in the Age of Technology: The Digital Revolution and
   the Schools'
